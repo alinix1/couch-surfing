@@ -1,0 +1,103 @@
+body {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
+    color:#5a5a5a;
+    flex-direction: column;
+}
+
+.container {
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container img {
+    width: 100%;
+}
+
+.nav-bar {
+    width: 100%;
+    position: sticky;
+    background-color:#fff;
+    box-shadow: rgb(0 0 0 / 12%) 0 0.063rem 0.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 3.125rem;
+    width: 2.875rem;
+    background-size: 2.938rem;
+    background-image: url('./assets/sofa.png');
+    margin: 1.25rem;
+}
+
+.user-container {
+    margin: 1.25rem;
+}
+
+.properties {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 6.25rem;
+    height: 9.375rem;
+    margin: 0.313rem;
+    border-radius: 1.25rem;
+    padding: 0.625rem;
+    box-shadow: rgb(0 0 0 / 12%) 0 0.063rem 0.5rem;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 0.625rem;
+}
+
+.img {
+    height: 25rem;
+    width: 43.75rem;
+    border-radius: 0.625rem;
+}
+
+.footer {
+    width: 100%;
+    background-color:#f08080;
+    text-align: center;
+    padding: 1.875rem 0;
+    color:#fff;
+}
+
+.review-card {
+    padding: 0.625rem;
+}
+
+.reviews {
+    display: flex;
+    padding: 0.625rem;
+}
+
+.break {
+    height: 0.063rem;
+    width: 90%;
+    background-color:#ff7f50;
+}
+
+button {
+    background-color:#228b22;
+    color:#fff;
+    border-radius: 0.313rem;
+    border: none;
+    padding: 0.625rem;
+    align-self: center;
+}
+
+button:hover {
+    background-color:#b8860b;
+    color:#eee;
+}

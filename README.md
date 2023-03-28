@@ -3,7 +3,7 @@ This is an app built using TypeScript. Project-based learning giving you the bas
 
 <img width="1432" alt="Screenshot 2023-03-28 at 12 23 18 AM" src="https://user-images.githubusercontent.com/28677929/228147173-b2a17c24-70c0-4e04-895d-01eaf110f42e.png">
 
-<img width="1408" alt="Screenshot 2023-03-28 at 12 24 01 AM" src="https://user-images.githubusercontent.com/28677929/228147234-e7994a41-9740-42f9-8628-7f8347d80b84.png"
+<img width="1408" alt="Screenshot 2023-03-28 at 12 24 01 AM" src="https://user-images.githubusercontent.com/28677929/228147234-e7994a41-9740-42f9-8628-7f8347d80b84.png">
 
 ### setup
 - Run `npm start` in the terminal

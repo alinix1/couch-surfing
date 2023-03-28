@@ -1,24 +1,17 @@
-# New Project
+# Couch-Surfing App 
+This is an app built using TypeScript. Project-based learning giving you the basics of TypeScript while you build a real-world-style couch-surfing app.
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+<img width="1432" alt="Screenshot 2023-03-28 at 12 23 18 AM" src="https://user-images.githubusercontent.com/28677929/228147173-b2a17c24-70c0-4e04-895d-01eaf110f42e.png">
 
-## Available Scripts
+<img width="1408" alt="Screenshot 2023-03-28 at 12 24 01 AM" src="https://user-images.githubusercontent.com/28677929/228147234-e7994a41-9740-42f9-8628-7f8347d80b84.png"
 
-### npm start
+### setup
+- Run `npm start` in the terminal
+- Runs the app in the development mode.
+- Open http://localhost:8080 to view it in the browser.
+- The page will reload if you make edits.
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
-
-The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### npm run build
+### deployment
 
 Builds a static copy of your site to the `build/` folder.
 Your app is ready to be deployed!
-
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
-
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
